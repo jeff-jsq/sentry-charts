@@ -413,6 +413,7 @@ data:
                 "organizations:performance-view",
                 "organizations:performance-frontend-use-events-endpoint",
                 "organizations:project-detail",
+                "organizations:profiling",
                 "organizations:relay",
                 "organizations:release-performance-views",
                 "organizations:rule-page",
@@ -436,6 +437,7 @@ data:
                 "organizations:metrics-extraction",
                 "organizations:transaction-metrics-extraction",
                 "organizations:session-replay",
+                "organizations:session-replay-ui",
 
                 "projects:alert-filters",
                 "projects:custom-inbound-filters",
